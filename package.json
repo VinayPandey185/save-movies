@@ -1,0 +1,19 @@
+{
+  "name": "save-movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "devStart": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0",
+    "mongose": "^0.0.2-security",
+    "nodemon": "^2.0.15"
+  }
+}
